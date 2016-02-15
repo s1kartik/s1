@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+/****STYLE SHEET CREATED ONLY FOR LOCAL183 AND ITS TRAINING CENTRE****/
+.title-local183 {
+	background: rgb(32, 109, 224, 1);
+	background: -moz-linear-gradient(top, rgba(32, 109, 224, 1) 17%, rgba(64,18,17,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(17%, rgba(32, 109, 224, 1)), color-stop(100%, rgba(64,18,17,1)));
+	background: -webkit-linear-gradient(top, rgba(32, 109, 224, 1) 17%, rgba(64,18,17,1) 100%);
+	background: -o-linear-gradient(top, rgba(32, 109, 224, 1) 17%, rgba(64,18,17,1) 100%);
+	background: -ms-linear-gradient(top, rgba(32, 109, 224, 1) 17%, rgba(64,18,17,1) 100%);
+	background: linear-gradient(to bottom, rgba(32, 109, 224, 1) 17%, rgba(64,18,17,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#206DE0', endColorstr='#401211', GradientType=0 );
+	color:#ffffff;
+	text-shadow:2px 2px 0px #000000;
+	padding: 11px 10px 10px;
+	margin: 0 0 6px;
+	position: relative;
+	
+}
+.btn-local183 {
+   color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  *background-color: #faa732;
+  background-color: #f8981C;
+  background-image: -moz-linear-gradient(top, #f8981C, #fbb450);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f8981C), to(#fbb450));
+  background-image: -webkit-linear-gradient(top, #f8981C, #fbb450);
+  background-image: -o-linear-gradient(top, #f8981C, #fbb450);
+  background-image: linear-gradient(to bottom, #f8981C, #fbb450);
+  background-repeat: repeat-x;
+  border-color: #f8981C #f8981C #ad6704;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff8981C', endColorstr='#fffbb450', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.btn-local183:hover,
+.btn-local183:focus,
+.btn-local183:active,
+.btn-local183.active,
+.btn-local183.disabled,
+.btn-local183[disabled] 
+{
+  color: #ffffff;
+  background-color: #f8981C;
+  *background-color: #df8505;
+}
+.local183-menu > li > a {
+	padding:13px !important;
+	
+	}
+.bg-local183 {
+	background-color: #f8981C;
+	}
+.nav-local183 {
+	max-height:41px;
+	padding:0px 0px 0px;
+	}	
+
+

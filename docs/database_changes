@@ -1,0 +1,16 @@
+	09Dec2015
+ALTER TABLE `dbdevsafe`.`tbl_inspection` CHANGE `date_inspection_start` `date_inspection_start` DATE NULL, CHANGE `date_inspection_end` `date_inspection_end` DATE NULL; 
+
+	27Jan2016 (Kartik local database)
+ALTER TABLE `dbdevsafe`.`tbl_union_courses` ADD COLUMN `dt_end_time` DATETIME NULL AFTER `dt_start_time`, ADD COLUMN `is_course_active` VARCHAR(3) DEFAULT NULL AFTER `dt_end_time`, ADD COLUMN `st_course_status` VARCHAR(11) NULL AFTER `is_course_active`;
+
+	01Feb2016
+Table "tbl_wsib_rategroup" updated with all records
+
+	02Feb2016
+UPDATE tbl_my_library AS tml SET credits=(SELECT `in_earning_points` FROM tbl_inspection WHERE id = tml.lib_id) WHERE `st_libtype_bought`="normal_inspection"
+UPDATE tbl_my_library AS tml SET credits=(SELECT `in_earning_points` FROM tbl_custom_inspection WHERE id = tml.lib_id) WHERE `st_libtype_bought`="custom_inspection"
+
+DELETE FROM tbl_inspection_item_information WHERE in_item_id NOT IN(SELECT id FROM `tbl_inspection_items`)
+
+DELETE FROM tbl_inspection_item_regulation WHERE in_item_id NOT IN(SELECT id FROM `tbl_inspection_items`)

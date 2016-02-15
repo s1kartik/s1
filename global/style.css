@@ -1,0 +1,101 @@
+a {
+    text-shadow: none;
+    color: #F33232;
+}
+
+a:hover{
+	text-shadow: none;
+	color: #A21E1E;
+}
+.view-more-tab{
+	position: absolute;
+    
+	bottom: 20px;
+    
+	right: 20px;
+	height: 20px;
+    text-align: right;
+}
+
+.view-more-details{
+    color: white;
+	
+}
+
+.company-section{
+	font-size: 20px !important;
+}
+
+.close-button{
+	border-radius: 20px;
+    position: absolute;
+    right: 0px;
+    top: -10px;
+}
+.dashboard-stat.dark-soft {
+    background-color: #212121;
+}
+
+.dashboard-stat:hover {
+    background-color: #313131;
+    color: #F33232;;
+}
+
+.font-pink{
+	color: #F144FF !important;
+}
+
+.font-blue-dark{
+	color: #065AB5 !important;
+}
+
+.btn-margin{
+	margin-top: 15px;
+}
+
+.page-header{
+	height: 100% !important;
+	background: #3E3E3E !important;
+}
+
+.page-header img{
+    width: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.widget-bg-color-yellow{
+	background-color: #E8BE29;
+}
+
+.widget-bg-color-bronze{
+	
+}
+
+.page-title small {
+    margin-left: 5px;
+}
+
+.dropdown-tree{
+	position: fixed;
+    z-index: 999;
+    margin-top: 40px;
+    
+	right: 10px;
+	width: 20%;
+	min-width: 200px;
+}
+
+.table-tools{
+	float: right;
+    display: inline-block;
+    padding: 12px 0 8px 0;
+}
+
+.theme-font {
+  color: #F33232 !important;
+}
+
+.widget-bg-color-black {
+    background: #2B2B2B;
+}

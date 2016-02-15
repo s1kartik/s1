@@ -1,0 +1,59 @@
+Hi Phillip,
+ 
+I would like to share some insight about tasks delivered and causes of delay in delivery, specifically in the month of December,2015.
+
+I understand that you must be worried about time taken on ongoing Data Collection Module by looking at various relevant emails. However, From broader perspective email subject is misleading and hence I would like to draw your attention in detail for each point and my comments on same, you might find out more clarity for each point and All listed are not Glitches.
+
+Pardon me for this lengthy email to clarify in detail. However it is crucial covering vital points to bring us on same page and what were the situation.
+
+1)
+-> Firstly, Let me describe a brief about points covered along with Data Collection.
+
+02Dec: “Due Diligence section of new procedure - Once select section should have ability to type. When typed 22 takes you to 20 in the drop down list."    
+
+I have applied the below in entire system though it was mentioned to work in Due Diligence modal only, This was required to maintain uniformity of the code so that later it will be easy for us to maintain
+
+03Dec:     Received data collection latest files structure, however this was again changed on 10-Dec with drastic changes in the functionality/format compared to the version I received on 03 Dec leading rework on same work item.
+
+04dec:  Due Diligence modal in s1 library contents page having misconception in Requirement Specification for the Add/Edit Library regulation panel, and also make Content field mandatory in Admin section which was clarified after lengthy call about regulation changes till my 3:30AM(IST), for about 3-4 hours.
+
+05dec:  - Investigate and compare about safety talks point files which was overwritten by old Tile Image.
+        - Worked on Regulation changes on Due Diligence modal in s1 library contents page, which was misconception in Requirement Specification for the Add/Edit Library regulation panel as conclusion of discussion Dated 04Dec.
+
+07dec:     - Recreate and reconfigured development environment to safe guard all changes directly on live environment.  (Development environment was discontinued after S1 live launch in Nov month)
+
+        - Worked on Procedure - Due Diligence - Implement functionality to show Regulation Details as an impact analysis of worked related to maintain Uniformity of Due Diligence.
+
+08dec:  - As per your email, there could be a possibility of changes in data collection in future.
+        - Worked on Procedure - Due Diligence - Implement functionality to show Regulation Details
+09dec:     Worked on Procedure - Due Diligence - Implement functionality to show Regulation Details
+10Dec:     Received new structure of Data Collection.
+
+11Dec:     As per your email, I had gone through responsiveness items, in Firefox, chrome as well as in devices and found working. However it took time of development in verifying pages again in different browsers and devices.
+
+17Dec:  Because these Items stated as Glitch in sheet so I Worked on Items 252,253,255,256, which are relevant to the library modules where Item256 was not Glitch, I explained too both in email and in sheet.
+
+Now along with above Tasks, It made some impacts on delivery of Data Collection, for which files/directory structured had changed drastically and that forced me to re-plan and re-align development structure as well as Timelines too, after I received latest version on 10Dec2015.
+
+---------------------
+2)
+-> Secondly, As we spoke on phone(WhatsApp), It took my extra time in merging newly structured files/directory in already created structure because revision received on 10Dec2015, because that merging process includes  i)Removal of unwanted sections from almost all the unions and admin data pages,
+ii) Changes,
+iii) New functionality added such as Consultant Grid, Location filter, Print function, Course detail page, Consultant Course details page, Header and Footer changes specially I had to re-code the file paths as per the files structure changed.
+
+-> Phillip, Till the time I have received revised version on 10 Dec, I was under impression that structure would be same because there was no such explanation about drastic changes discussed or conveyed in any communication. Based on this understanding and information on hand at that point of time, I have provided my first delivery Schedule to you. However, upon reviewing on 10th Dec, I could see a need of detailed impact analysis, verification and justification in email also required me to put extra time from my end, to pick-out final things and to bring all of us on same page.
+
+-> Another important factor in defining timeline that I am working since 04Dec2015, for 4 working Hrs in a Day  covering development, communication and discussion with S1 team to bring all possible clarity before starting development.
+---------------------
+
+3)
+-> I strongly faced some Communication gaps too. I agree that I have initial Requirements where I could decide the exact output I need to deliver from the HTMLs provided and when needed I asked also if I had query, However I strongly believe that Many of the core domain relevant functionality I might not aware in same depth as S1 team and hence required detailed discussion for those.
+
+-> To come out from such situation, I had suggested to Marcio that We required to discuss the requirements on Skype or on call to clear doubts, because while sharing the functionality on call, I am sure that We get more clarification at the initial stages itself rather than after development. (A Typical Story point building and ensure it is understood by both the teams in term of agile development methodology before starting of a Sprint)
+
+For your reference again, I have collected all the conversation of Data Collections emails in the attached document.
+
+We welcome your input on further process, to make our journey more effective.
+
+Regards,
+Kartik Shah

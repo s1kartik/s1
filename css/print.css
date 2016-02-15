@@ -1,0 +1,15 @@
+header{
+    display: none;
+}
+footer{
+    display: none;
+}
+.span2{
+    display: none !important;
+}
+.spannews1{
+    display: none !important;
+}
+a{
+    display: none !important;
+}

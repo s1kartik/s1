@@ -1,0 +1,145 @@
+﻿/* CSS Document */
+.s1content_title{
+	font:18pt Tahoma !important;
+	/*font-size:18pt !important;*/
+	color:#000080 !important;/*Navy Blue*/
+	font-weight:bold !important;
+	}
+.s1content_line{
+	height:3px !important;
+	color:#000080 !important;/*Navy Blue*/
+	background-color:#000080 !important;/*Navy Blue*/
+	}
+
+.s1content_subtitle{
+	font:14pt Tahoma !important;
+	color:#800000 !important;/*Maroon*/
+	font-weight:bold !important;
+	}
+
+.s1content_body_title{
+	font:12pt, Arial !important;
+	font-weight:bold !important;
+	margin-top:5px !important;
+	
+	}
+.s1content_body_section {
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+	}
+.s1content_body_section_left {
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+	text-align: left !important;
+	margin-left: 10px !important;
+	}	
+.s1content_body_section li {
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+	}	
+.s1content_ul_disc{
+	list-style: disc;
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+	margin-bottom: 7px !important;
+}
+.s1content_ul_disc li{
+	list-style: disc !important;
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+}
+.s1content_body_section_maroon{
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#800000 !important;/*Maroon*/
+	}
+.s1content_body_section_maroon_bold{
+	font-family:Arial !important;
+	font-size:11pt !important;
+	color:#800000 !important;/*Maroon*/
+	font-weight:bold !important;
+	}
+.s1content_red_seal{
+	font:14pt, Tahoma !important;
+	font-weight:bold !important;
+	background-color: #e51400 !important;/*red*/
+	padding:3px !important;
+	}
+.s1content_certification{
+	font:14pt, Tahoma !important;
+	font-weight:bold !important;
+	background-color: #1b6eae !important;/*red*/
+	padding:3px !important;
+	}
+.s1content_link{
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#800000 !important;/*Maroon*/
+	}
+.s1content_ordered_list{/*for list with numbers*/
+	list-style-type: number;
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+
+	}
+.s1content_alpha_list{/*for list with lating alpha letters*/
+	list-style-type: lower-latin;
+	font-family:Arial !important;
+	font-size:12pt !important;
+	color:#000000 !important;
+
+	}
+	
+.s1_info {
+    width: 35px;
+    height: 35px;
+    margin: 0px;
+    padding-top: 2px;
+    cursor: pointer;
+    background-color: #000;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: 2px solid #FFF;
+    text-align: center;
+}
+.s1select_translate_box{
+	border-radius: 0px;
+	width: auto;
+	height: 25px;
+	line-height: 25px;
+	font-family: Arial !important;
+	font-size: 12pt !important;
+	color: #000 !important;
+}
+.profile_letter {
+    width:25px !important;
+	height:25px !important;
+	max-width:25px !important;
+	display: -moz-box !important; 	
+}
+.getstart_number {
+    width:35px !important;
+	height:35px !important;
+	max-width:35px !important;
+	display: -moz-box !important; 	
+}
+.s1_top_tile_title{
+	color: #FFF;
+    font-size: 14pt !important;
+    font-weight: bold !important;
+    padding: 10px;
+
+}
+.s1_card_img{
+	border-radius: 80px;
+	border: 6px solid #EA0F0F;
+	height:140px !important;
+	width:140px !important;
+}	

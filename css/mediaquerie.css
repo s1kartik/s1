@@ -1,0 +1,579 @@
+﻿@media (max-width:1169px) {
+.middleTile { width:442px !important;}
+.middleTile .clear { display:none;} 
+
+/*added 15/07/2015*/
+.profileCon, .profilehomeCon { width:100%; margin:0 auto}
+.profileCon > .tile-group { width:100% !important}
+.profilehomeCon .span4 { width:100% !important}
+.messageCon { width:780px; margin:0 auto}
+.messageCon > .tile-group { width:100%  !important}
+.fatalityCon { width:780px; margin:0 auto}
+.fatalityCon .span4 { width:100% !important}
+.fatalityCon .span4 br { display:none}
+.s1LibCon .midBox { width:432px !important; margin-bottom:10px !important;}
+.proceCon { width:100%; margin:0 auto}
+.proceCon .tile.double { width: 23.6% !important;}
+#google_translate_element { width:100%}
+.conections-data .tile-group.two { width:100% !important;}
+.assgined-library-container  .span2, .assgined-library-container .size2 { width:auto !important;  }
+
+/*added by kishor 01/08/2015*/
+#modal_professional select { width:270px !important}
+/*.profileCon > .tile-group > .tile.double { width:31.85% !important; }*/
+.priveciy-data-content .tile-content { overflow:inherit !important; overflow-y:scroll !important; }
+.skilledjob-data-container .tile-group:first-child { margin:0 0 0 0 !important; display:block; width:100%; }  
+.skillgaps-cpnstr-buttons span { margin-left:10px; }
+.skilledjob-data-container .pagination { float:left; margin-bottom:20px; }
+.skilledjob-data-container .span4 { width:100% !important; }
+.skilljob-main-buttons .tile-group { position:inherit !important; } 
+.skilledjob-data-container .tile-group { position:inherit !important;  } 
+.padding-metro-home .span2, .padding-metro-home .size2 { width:100%; }
+.news_metro .width150, .news_metro .width150 { width:150px !important; }
+
+.cls_badge_idcard .span7 { width:100% !important;  }
+.cls_badge_idcard .span7  .image-contianer { width:50% !important;  margin:0 auto !important; display:block; }
+.cls_badge_idcard .span7 span { display: inline-block; width:100% !important;}
+
+.equip-model  {  position:absolute !important;  top:15% !important; left:55% !important;  }
+
+.union-container .row-fluid .module-1-1 { width:70% ; }
+.union-container .row-fluid .module-1-3 { width:27% ; }
+.union-container .row-fluid .cls_insp_items .span4 { width:18% !important; }
+.union-container .row-fluid .cls_insp_items .span3 { width:19% !important; }
+
+.my-client-right-tab-data .span2, .my-client-right-tab-data .size2 { width:20% !important;  }
+.my-client-right-tab-data { width:70% !important; float:left; }
+.myclient-tools-data .input-control { margin-left:20px !important; }
+.my-client-right-tab-data .nav-tabs { width:88%; }
+
+#center-leaderboard ul li { padding-bottom:5px !important; }
+#center-leaderboard .carousel_ads .carousel-inner .item { margin-top:6px; }
+
+.profilehomeCon .dashboard-content { background:none !important; box-shadow:none; }
+.constr-trade-container .span2, .constr-trade-container .size2 { width:100% !important }
+
+.news_metro .span2, .news_metro .size2 { width:100% !important;  }
+.news_metro .width150, .news_metro .width150 { width:150px !important; }
+
+#cls_insp_items .span4 { width: 26.5% !important;   }
+#cls_insp_items .span3 { width: 20% !important;   }
+#cls_insp_items select { width:180px !important; }
+
+.model-procedures { left:50% !important; }
+.model-procedures-main { left:50% !important; }
+
+/*#ui-datepicker-div table { display:table !important; }
+#ui-datepicker-div table tbody, #ui-datepicker-div table tr, #ui-datepicker-div table th, #ui-datepicker-div table td { display:table !important; }*/
+
+/*.metro .tile.quadro.marcio_profile_home { margin-bottom:40px; } // Commented on 17aug2015: This line was disturbing the profile home, news page */
+}
+
+/*added 08/07/2015*/
+@media (max-width:1023px) {
+.metro .span3.firstTile, .middleTile, .metro .span4.lastTile { width:100% !important;}
+#filterfrm button { margin-bottom:10px;}
+.union-container .search .span1 { min-width: 50px; }
+/*added 15/07/2015*/
+.navbar-division1 .span3, .navbar-division1 .span9   { width:100% !important; box-sizing:border-box;overflow:auto}
+.navbar-division1 .span9   { padding:0 20px 10px !important;}
+/*.profileCon > .tile-group > .tile.double { width:31.85% !important}*/
+.messageCon { width:520px;}
+.fatalityCon {width: 650px;}
+.fatalityCon .tile-group.width390 { width:100% !important}
+.libraryCon { width:660px; margin:0 auto}
+.libraryCon .tile.double { height:auto; width: 210px;}
+.s1LibCon > .container-fluid, .s1LibCon > .tile-group.span4  { width:100% !important; padding:0 !important}
+.s1LibCon  { width:660px;margin:0 auto}
+.s1LibCon > .tile-group.span3  { width:100% !important;}
+.s1LibCon .tile.double {height: auto;width: 210px;}
+.s1LibCon .span4 .triple-vertical  {text-align: center; width: 98.5%;}
+.s1LibCon .midBox { width:98.5% !important; }
+/*added by kishor 01/08/2015*/
+.myDataColCon { width:390px; margin:0 auto}
+.news_metro .width150, .news_metro .width150 { width:100% !important; }
+
+#modal_worker_id_card  .tab-control .tabs > li  { width:100% !important; }
+#modal_worker_id_card  .tab-control .tabs > li.active a { width:100% !important; font-size:16px; }
+#modal_worker_id_card .span6, .profile-model-content .size6 { width:100% !important; }
+
+.union-container .module-2-3 { width:100% !important; }
+.union-container .module-1-3 { width:100% !important; margin:0 0 25px 0 !important; }
+.union-container .row-fluid .module-1-1 { width:100% !important; }
+.union-container .row-fluid .skilRight { width:100% !important; margin:0 !important; }
+.union-container .skilRight .tile.half-library { width:185px !important; }
+
+.my-client-right-tab-data .myclient-tools-data a { font-size:16px !important; }
+.hazard-alert-container .form-inline .span2, .hazard-alert-container .form-inline .size2 { margin:0 10px 10px 0 !important; display:inline-block; background-color:#222222 !important; }
+
+#frm_inspection_advanced .form-large-select { width:auto !important;  }
+
+.shopping-cart-data-table { width:100% !important; overflow-y:scroll; overflow-x:hidden; }
+
+#checkout-table { display:block !important; }
+#checkout-table tbody, #checkout-table tr, #checkout-table th, #checkout-table td { display:block !important; }
+
+}
+
+/*added 08/07/2015*/
+@media (max-width:939px) {
+.container {width: 100% !important;}
+.metro .tile.instructor-content {width: 100% !important;}
+/*added 15/07/2015*/
+.span12, .row-fluid .span12 {width: 100% !important;}
+.mol-img {float:none !important;}
+
+.profileCon, .profilehomeCon { max-width:655px; }
+/*.profileCon > .tile-group > .tile.double  { width:31.5% !important; }*/
+
+.metro .tile.quadro.marcio_profile_home { width:638px; }
+/*.profilehomeCon > .tile-group > .tile.double, .profileCon > .tile-group > .tile.double { width:40% !important}*/
+
+.my-client-right-tab-data { width:96% !important; float:left; position:relative; top:20px; }
+
+.mol-data-container .span3 { width:100% !important;  } 
+.mol-data-container .tile { width:201px !important; }
+
+
+
+}
+
+/*css create 10-02-2015*/
+@media (max-width:800px) {
+.img_logo{width:70px !important;}
+
+/*sign Up page*/
+#id_signup_success.tile{margin:0 !important} 
+#id_signup_success.tile.quadro{width:auto !important; margin:0 auto !important; left:0 !important}
+.container-fluid.padding-metro-home.right{ width:auto !important; left:0 !important}
+.wrapper{ padding:0 0 10px;}
+.metro .fg-grayLighter,.metro .padding-metro-header{margin:0; padding-left:0 !important; padding-right:0 !important; padding-top:10px !important }
+.metro .padding-metro-header .margin20{ margin-left:0 !important; margin-right:0 !important}
+/*.metro .padding-metro-home{padding:0 !important;}*/
+.radio, .checkbox{ padding-left:0 !important}
+.container-fluid{ padding-left:15px !important; padding-right:15px !important;}
+.metro .subheader-secondary{ font-size:25px !important;}
+.container-fluid.padding-metro-home.right{ height:auto !important}
+.metro .text-right .fg-white{ display:block !important}
+.image-button.bg-gray.fg-white{ display:inline !important;}
+.signupbg .modal{ width:96% !important; left:2% !important; right:2% !important; margin:0;}
+.signupbg .metro .tertiary-text-secondary{ font-size: 1.9rem; line-height:2.5rem;}
+.signupbg .metro .item-title-secondary{ font-size: 2.5rem; line-height: 3rem;}
+.signupbg .modal-body{ max-height:300px}
+.signupbg .container-fluid.padding-metro-home.right2{ width:auto !important; left:0 !important}
+/*.profile-view .modal{ width:300px !important; left:-20px; margin:0;}*/
+.profile-view .modal-body{max-height:300px}
+.profile-view .metro .tertiary-text-secondary{ font-size: 1.9rem; line-height:2.5rem;}
+.profile-view .metro .item-title-secondary{ font-size: 2.5rem; line-height: 3rem;}
+/*About Page*/
+#bodyhrq .navbar .header-brand{ position:relative; margin-bottom:10px;}
+#bodyhrq .navbar-division1 .span9{ float:none}
+#bodyhrq .navbar-division1 .wrapper{ padding:5px 0}
+.metro .navigation-bar.dark{ height:45px;}
+.metro .navigation-bar .element-menu, .metro .navbar .element-menu{top:45px; float:left; background:#151515}
+#metro-right-menu{float:right !important; margin:0 0 0 40px; width:280px; position:absolute; right:0; top:0}
+#metro-right-menu a{ float:right !important; display:inline-block; width:40px !important; height:45px; overflow:hidden; border-left:#555555 solid 1px; padding:15px 10px !important}
+#metro-right-menu a span.github-watchers{ display:none}
+.metro .navigation-bar .pull-menu, .metro .navbar .pull-menu{left:0 !important; right: inherit !important;}
+#metro-right-menu .element.image-button.image-left.place-right{ float:left !important; width:auto !important;border-left:#555555 solid 1px;}
+#metro-right-menu .element.image-button.image-left.place-right a{ width:auto !important;height:auto !important;padding:0 !important; border:0px !important}
+#metro-right-menu .element.image-button.image-left.place-right a:hover{ font-weight:normal !important}
+.homebg.metro .padding-metro-header .margin20{ float:left; padding: 0 15px !important; line-height:24px !important;}
+.metro .navigation-bar .element-menu, .metro .navbar .element-menu{ padding:10px; border-bottom:#681516 solid 3px;
+-webkit-box-shadow: 0px 5px 5px 0px rgba(237,237,237,0.1);
+-moz-box-shadow: 0px 5px 5px 0px rgba(237,237,237,0.1);
+box-shadow: 0px 5px 5px 0px rgba(237,237,237,0.1);}
+.navigation-bar .element-menu li, .navbar .element-menu li{float:left !important; width:45px !important; display:inline-block !important; height:45px; margin:2px 2px 10px 2px; }
+.metro .navigation-bar .navigation-bar-content .element-divider, .metro .navbar .navigation-bar-content .element-divider, .metro .navigation-bar .navbar-content .element-divider, .metro .navbar .navbar-content .element-divider{ border:0px}
+.metro .navigation-bar .element-menu > li > a, .metro .navbar .element-menu > li > a{ background:#2e2e2e}
+.navigation-bar .element-divider{ display:none}
+.tile-group.three.no-margin.no-padding,.tile-group.two.no-margin.no-padding{ /*width:100%*/ clear:both; float:none !important; margin:0 auto !important; display:table}
+.navbar-division1 .container-fluid{ padding:0 !important}
+#bodyhrq .navbar-division1 .span9{ padding:0; margin:0; min-height:inherit; display:block}
+#bodyhrq .navbar-division1 .wrapper{ padding:0}
+.metro .navigation-bar .pull-menu:before, .metro .navbar .pull-menu:before{ left:12px; top:12px;}
+.form-inline.no-margin .size2{ width:113px !important}
+#bodyhrq .form-inline .input-control.size2{-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;}
+#bodyhrq .form-inline .btn, #bodyhrq .form-inline input { margin:0;}
+
+.profile-content-filter .form-inline input { margin:inherit !important;}
+
+.metro .tile-group.six, .metro .tile-group.narrowCol{ width:100%; margin:0 auto 30px auto !important; float:none !important}	
+.metro .span6, .metro .size6{ width:auto !important}
+html{ font-size:50% !important}
+.metro .tile-group.five{ margin:0 auto !important; float:none !important;}
+.tile-group.no-margin.no-padding.clearfix.span1{margin:0 auto !important; width:auto !important; float:none !important; width:650px !important;}
+.tile-group.no-margin.no-padding.clearfix.span2{margin:0 auto !important; width:auto !important; float:none !important; /*width:650px !important;*/}
+.metro .span3, .metro .size3,.metro .tile-group.libtiles,.metro .tile.triple-vertical{  float:none !important}
+.metro .span3, .metro .size3 { background:none !important; }
+span.tile.half-library.bg-transparent.description{ display:none !important;}
+.fatality_metro .tile-group.no-margin.no-padding.clearfix { margin:0 auto !important; float:none !important}
+.fatality_metro .tile-group.no-margin.no-padding.clearfix br{ display:none}
+#equip-container .equip-image, #equip-container .equip-item{ position:relative}
+.main-map #googleMap{ height:300px !important; position:relative !important}
+.main-map #map-wrapper{ position:relative}
+.map-body footer{ display:block}
+.metro .navigation-bar .element-menu > li.topsearch, .metro .navbar .element-menu > li.topsearch{ clear:both !important; width:auto !important; margin:0 !important; height:auto !important}
+.metro .input-control.text, .metro .input-control.password, .metro .input-control.file, .metro .input-control.email, .metro .input-control.tel, .metro .input-control.number{ margin-right:5px; }
+.width390{ width:87% !important;}
+.width300{ width:87% !important;}
+.tile-group.no-margin.no-padding.clearfix.width260{ margin:0 auto !important; float:none !important}
+.center-width{width:390px !important; margin:0 auto !important; float:none !important;clear:both !important}
+/*Comment for popup width on 17/07/2015
+#modalTraining, #modalUserTraining,#modalPPE,#modalMachinery,#modalProcedure,#modalDueDiligence,#modalPreview,#modal_worker_id_card{width:93% !important}*/
+/*Added 08/07/2015*/
+.contact-form .span6 { width:100% !important}
+.radio, .checkbox{ padding-left:20px !important}
+.metro .tile-group.narrowCol:before, .metro .tile-group.narrowCol:after, .metro .tile-group.six:before, .metro .tile-group.six:after { content: ""; display: table; line-height: 0;}
+.metro .tile-group.narrowCol:after, .metro .tile-group.six:after {clear: both;}
+#modalPreview .span8,#modalPreview .size8{width:100% !important}
+.select-right { float:left}
+.messageCon .div-messages .tile { width:98% !important;}
+.s1LibCon .tile.triple-vertical.midBox { margin-bottom:10px !important}
+#modalTraining, #modalUserTraining,#modalPPE,#modalMachinery,#modalProcedure,#modalDueDiligence,#modalPreview,#modal_worker_id_card{width:77% !important}
+#modalPPE li, #modalMachinery li, #frm_proc_procedures li  { margin-bottom:7px !important;}
+.metro .topsearch .input-control.text, .metro .topsearch .input-control.select {width: 204px !important;}
+.metro .cls_myidcard .span6, .metro .cls_myidcard .size6 { width:100% !important}
+.crewFloat { margin-top:20px !important; margin-left:20px !important;}
+.tile-group.three.no-margin.no-padding{ margin:0 !important;}
+.tile-group.three.no-margin.no-padding{ margin:0 auto !important;}
+
+.metro .span3, .metro .size3 { width:33.5% !important; }
+.constr-trade-container { margin:0 auto; display:block; float:none; padding:20px 40px !important }
+.constr-trade-container .tile-group { margin:0 0 30px 0 !important; padding:0 !important; float:none !important; }
+.constr-trade-container .marcio_profile_home {  float:none !important; margin:0 auto !important; }
+
+.news_metro .tile-group.no-margin.no-padding.clearfix.span2 { width:86% !important; }
+
+.metro .tile.quadro.marcio_profile_home { width:640px; margin-bottom:20px; }
+.constr-trade-container .tile.quadro.marcio_profile_home {  width:686px; }
+
+.dashboard-ads-container { display:block; width:92% !important; margin:0 auto !important; }
+#modal_update_supervisor .modal-body table tr td { font-size:13px; } 
+#modal_update_supervisor .modal-body table tr td:first-child h5 { width:80%; font-size:13px; } 
+
+.my-client-right-tab-data .nav-tabs { width:100%; }
+
+#center-leaderboard .span4 { width:100% !important; } 
+#center-leaderboard .span8 { width:100% !important; margin-bottom:30px; margin-left:0px; } 
+
+.mol-data-container .span3 { width:100% !important;  } 
+.mol-data-container .tile { width:169px !important; }
+.mol-data-container .brand span { font-size:10px !important; margin:5px 7px 2px 5px !important; }
+
+.connection-data-container .conMetroCon  .tile.double {  width:239px !important; }
+.myworker-data-container .tile-group.six, .myworker-data-container .tile-group.narrowCol { width:80% !important }
+
+.myworker-data-container  .span3, .myworker-data-container  .size3 { width:42.5% !important;  }
+.news_metro .span2, .news_metro .size2 { width:100% !important	; }
+
+.model-procedures { left:47% !important; }
+.model-procedures-main { left:50% !important; }
+
+
+/*Added by kishor 01/08/2015*/
+.metro .tile.triple-vertical.crewSecond { margin:0 !important}
+.myDataColCon .center-width { margin:0 auto !important}
+
+}
+@media (max-width:767px) {
+#equip-image{ clear:both !important}
+.metro .tile-group.six, .metro .tile-group.narrowCol{ /*600px*/; margin:0 auto 30 auto !important; float:none !important}	
+.metro .tile-group.five{ width:100% !important;}
+.tile-group.no-margin.no-padding.clearfix.span1{width:auto !important;}
+.tile-group.no-margin.no-padding.clearfix.span2{width:auto !important;}
+/*.metro .tile.quadro.marcio_profile_home{ height:400px;}*/
+.profile-content-filter select{ width:100%}
+.metro .tile-group.libtiles{ width:100% !important}
+.tile-group.no-margin.no-padding.clearfix.span3{ width:100% !important}
+.tile-group.no-margin.no-padding.clearfix.span3 .tile.double.marcio-menu-tile{ width:100%}
+.container-fluid .container-fluid{ padding:0 !important	}
+.fatality_metro .tile-group.no-margin.no-padding.clearfix { margin:0 auto !important; float:none !important}
+.profile-home .tile-group.five.no-margin.no-padding.clearfix{ width:390px !important; margin:0 auto !important; float:none !important}
+.profile-home .tile-group.no-margin.no-padding.clearfix.span1{width:390px !important; margin:0 auto !important; float:none !important}
+.profile-home .tile-group.no-margin.no-padding.clearfix.span2{  /*width:390px !important;*/ margin:0 auto !important; float:none !important}
+/*.metro.profile-home .tile.double{ width:100% !important}*/
+.metro.trade-metro .tile.quadro{ width:100% !important; margin-bottom:10px}
+/*added 06/07/2015*/
+.metro .tile.instructor-content{ width:100% !important}
+.popOuter { width:100% !important}
+.popOuter > div  {max-height:inherit !important; }
+#hazard-drop-down, #hazard-title { width: 100%;}
+.metro .tab-control .tabs > li { width:100%; margin:0 0 5px !important}
+.metro .tab-control .tabs > li > a { float:none}
+.metro .tab-control .frame { margin-bottom:20px;}
+#equip-container .modal-body { height:700px;}
+#equip-container .modal-footer > *, #equip-container .modal-footer button { margin:0 0 5px; width:100%; box-sizing:border-box}
+.overFlowSec { overflow-x: auto;}
+.overFlowSec table { min-width:767px;}
+.btnGroups > div{ width:100%; margin-top:10px;}
+.btnGroups > div:before, .btnGroups > div:after { content: ""; display: table; line-height: 0;}
+.btnGroups > div::after {clear: both;}
+/*.metro .input-control.text { width:90% !important;}*/
+#google_translate_element + span { display:block}
+/*added 15/07/2015*/
+/*.profileCon > .tile-group > .tile.double {width: 100%;}*/
+.profilehomeCon > .tile-group.five.no-margin.no-padding.clearfix, .profilehomeCon > .tile-group.no-margin.no-padding.clearfix.span1, .profilehomeCon .tile.quadro.marcio_profile_home { width:100% !important}
+.profilehomeCon, .profileCon { width:100%; max-width:610px;}
+/*.profilehomeCon .tile, .profileCon .tile { margin:0 2px 5px 0 !important}*/
+.fatalityCon {width: 390px;}
+.libraryCon, .s1LibCon {width: 585px;}
+.libraryCon .tile.double, .s1LibCon .tile.double{width: 185px;}
+.s1LibCon .tile.double.marcio-menu-tile, .libraryCon .tile.double.marcio-menu-tile{ width:185px !important}
+.s1LibCon .span4 .triple-vertical  {text-align: center; width: 100% !important;}
+#modalTraining, #modalPPE,#modalMachinery,#modalProcedure,#modalDueDiligence,#modalPreview,#modal_worker_id_card, #modalPreview11 {width:90% !important; left:5% !important;}
+#modalUserTraining { width:85% !important; left:10% !important; }
+.s1LibCon .midBox.tile.triple-vertical { height:400px;}
+.proceCon .tile.double { width: 47% !important;}
+/*.metro .metroCon .input-control.text { width: auto !important;}*/
+#txt_crew_label { min-height:auto !important}
+#getstart img { width:100%; height:auto}
+
+/* added by Ritesh 20/07/2015*/
+.model-data-container .modal  { width:94% !important; max-width:540px !important;  margin:0 auto; }
+.model-data-container .modal .modal-body select { width:100% !important; }
+#myCarousel .item { height:100%; }
+#center-leaderboard #myCarousel .item { height:inherit; }
+.union-container .carousel-inner > .item { height:auto !important; }
+
+.union-container .carousel-content .carousel-content-inner span { left:7px; bottom:5px; }
+.union-container .carousel-content .carousel-content-inner span a.btn-local183 { width:75px; padding:5px 0 !important; line-height:13px; font-size:11px;  margin:0; padding:0 }
+.union-container .carousel-content .carousel-content-inner p { margin-top:40px; }
+.metro .tile.quadro.marcio_profile_home { width:99.6% !important;}
+/*.dashboard-content { height:217px !important; }*/
+
+.constr-trade-container i { float:left;}
+.constr-trade-container .panel-header { padding:10px 30px 10px 10px !important; line-height:22px !important; }
+.constr-trade-container .panel-header .back-side-arrow { position:absolute; right:15px; top:7px; }
+.constr-trade-container .panel-header .info-container { padding:10px 20px 20px 20px !important; position:inherit !important; }
+
+.profile-popup-container { left:3% !important; right:3% !important; width:94% !important; }
+.news_metro .tile-group.no-margin.no-padding.clearfix.span2 { width:100% !important; }
+.dashboard-ads-container { display:block; width:92% !important; margin:0 auto !important; }
+
+.my-client-right-tab-data .span2, .my-client-right-tab-data .size2 { width:30% !important; margin:0 !important;  float:left; }
+.my-client-right-tab-data .span4, .my-client-right-tab-data .size4 { width:30% !important; margin:0 ; float:left;  }
+.my-client-right-tab-data .span3, .my-client-right-tab-data .size3 { width:80% !important; margin:0 ; float:left; margin-bottom:25px; }
+.my-client-right-tab-data .span1, .my-client-right-tab-data .size1 { float:left; margin:0; }
+.my-client-right-tab-data .modal { left: 3% !important; top:10% !important; width:94% !important;   }
+.my-client-right-tab-data .nav-tabs { width:90%; }
+.my-client-right-tab-data .modal .span4, .my-client-right-tab-data .modal .size4 { width:100% !important; margin:0 ; float:left;  }
+
+.myclient-tools-data .input-control { margin-left:0px !important; }
+.my-client-page-toppart .tile-group.two.no-margin.no-padding { margin:0 auto !important; }
+.dashboard-ads-container .span3 { width:23.46% !important; float:left !important; margin-right:10px; }
+.mol-data-container .tile { width:161px !important; }
+
+
+.connection-data-container .tile-group.six, .connection-data-container .tile-group.narrowCol { width:75% !important; }
+.connection-data-container .conections-data .two  { width:75% !important;  }
+.connection-data-container .conMetroCon .span3, .connection-data-container .conMetroCon .size3 { width:37.5% !important; }
+.myworker-data-container .tile-group.six, .myworker-data-container .tile-group.narrowCol { width:82% !important }
+/*
+.actual-size-logos .tile .tile-content.image-set img:first-child { height:auto !important; width:auto !important; max-width:122px; }
+.actual-size-logos .tile .tile-content.image-set img { height:auto !important; width:auto !important; max-width:122px;}
+*/
+
+/* added by kishor 01/08/2015*/
+#modal_professional input[type="text"], #modal_professional select, #modal_personal input[type="file"] { width:100% !important}
+.myDataColCon .modal svg {left: -138px;transform: scale(0.7);}
+.myDataColCon .modal > div > div { overflow: hidden; width:332px !important;}
+.myDataColCon .modal > div > div > div {left:-70px !important;}
+
+.equip-model  {  position:absolute !important;  top:15% !important; left:20% !important;  }
+/*.dashboard-content .carousel { height:235px !important; }*/
+.dashboard-main-model { left: 2% !important; }
+
+#center-leaderboard .span4 { width:100% !important; } 
+#center-leaderboard .span8 { width:100% !important; } 
+
+.model-procedures { left:5% !important; width:90% !important;  }
+
+}
+
+@media (max-width:735px) {
+	.img_logo{width:70px !important;}
+	#myCarousel img .item { height:206px; }
+
+	
+	.dashboard-ads-container .span3 { width:100% !important; float:none !important; margin-right:0; }
+	
+}
+
+@media (max-width:568px) {
+.img_logo{width:70px !important;}
+/*ADDED ON AUG 21 2015 BY MARCIO TO FIX INSPECTION INTO THE DRAG IN DROP SECTION ON MOBILE.*/
+.drag_img{width:50px !important;height:50px !important;}
+.drag_credits_points{width:16px !important;height:16px !important;}
+
+/*added 15/07/2015*/
+.s1LibCon  { width:390px;}
+.s1LibCon .marcio-menu-tile {width: 100% !important;}
+.libraryCon, .s1LibCon {width: 100%;}
+.libraryCon .span4 .tile.double, .s1LibCon .span4 .tile.double {width: 100%; text-align:center}
+.libraryCon .span4 .tile.double img, .s1LibCon .span4 .tile.double img { width:100%; height:auto}
+.s1LibCon .tile.double.marcio-menu-tile, .libraryCon .tile.double.marcio-menu-tile{ width:100% !important}
+.libraryCon .nav-tabs  { margin-right:0 !important}
+#modalPPE .tile.half-library, #modalMachinery .tile.half-library { width:100% !important;}
+.profilehomeCon, .profileCon { width:100%; max-width:488px;}
+.metro .topsearch .input-control.text, .metro .topsearch .input-control.select { width: 205px !important; }
+
+.my-client-right-tab-data .span2, .my-client-right-tab-data .size2 { width:70% !important; }
+.my-client-right-tab-data .span4, .my-client-right-tab-data .size4 { width:95% !important;  }
+
+.myclient-tools-data .form-inline { margin-bottom:20px !important }
+.myclient-tools-data .form-inline span { width:40px !important; float:left; }
+.my-client-right-tab-data .span1, .my-client-right-tab-data .size1 { width:43px !important;   }
+.my-client-right-tab-data .myclient-tools-data .span4, .my-client-right-tab-data .myclient-tools-data .size4  { width:55% !important;   }
+
+.mol-data-container .tile { width:100% !important; }
+.connection-data-container .conMetroCon  .tile.double {  width:295px !important; }
+#modalUserTraining { width:68% !important; left:16% !important; }
+
+/*#myCarousel .item { height:350px; }*/
+.carousel-content .carousel-content-inner { max-width:inherit !important; margin-top:36%; position:relative; }*/
+
+}
+
+@media (max-width:519px) {
+.metro .tile-group.six, .metro .tile-group.narrowCol{ width:100%; float:none !important}	
+.metro .tile.half-library{ width:100%;}
+.metro div, .metro span, .metro p{ font-size:14px;}
+.metro .tile-group.five,.tile-group.no-margin.no-padding.clearfix.span1,.tile-group.no-margin.no-padding.clearfix.span2{ width:260px !important; clear:both !important }
+/*commented on 15/07/2015*/
+/*.metro.profile-home .tile.quadro.marcio_profile_home{ width:390px !important}*/
+/*end commented on 15/07/2015*/
+
+/*	.tile-group.no-margin.no-padding.clearfix{ width:100% !important;}*/
+/*Edit and Added on 09-07-2015*/
+/*.main-content.padding-metro-home.clearfix{ /*padding:0 0 15px 0 !important; padding:0 15px 15px!important;}*/
+
+.connection-data-container .conections-data .tile-group.three.no-margin.no-padding, .connection-data-container  .conections-data .tile-group.two.no-margin.no-padding { margin:0 auto !important; }
+.tile-group.three.no-margin.no-padding, .tile-group.two.no-margin.no-padding { margin:0 !important;}
+.nav.nav-tabs { margin:0 0 15px 0 !important; padding:0}
+.nav.nav-tabs > li{ width:100%; margin:1px 0}
+.nav.nav-tabs > li a{border:#fff solid 1px;}
+.nav-tabs{ border:0}
+#equip-sort{ padding:5px !important;}
+#equip-sort select,#equip-sort h4{ width:100%; margin-top:5px}
+#bodyhrq .cart-info{}
+.metro .input-control.text, .metro .input-control.password, .metro .input-control.file, .metro .input-control.email, .metro .input-control.tel, .metro .input-control.number{ margin:0; margin-right:5px; width:100% !important; margin-bottom:5px;}
+.metro .input-control.select{ width:100% !important; margin:0 0 5px 0}
+#library-container .radio input[type="radio"],#library-container .checkbox input[type="checkbox"] { margin:0}
+.tile-group.no-margin.no-padding.clearfix.width260{ width:260px !important; margin:0 auto !important; float:none !important}
+/*added 10/07/2015*/
+.metro .input-control.text { width:100% !important; margin:6px 0 13px 0 !important;}
+#hazard1 { width:100% !important; box-sizing:border-box}
+/*added 15/07/2015*/
+.profilehomeCon, .profileCon { width:100%; max-width:366px;}
+.messageCon, .messageCon .tile { width:100% !important;}
+.messageCon .pagination { margin-right:0; }
+.messageCon .pagination > ul li{  margin-bottom:2px }
+.messageCon .div-messages .tile { width:100% !important;}
+.fatalityCon {width: 392px;}
+.fatalityCon .tile-group.width390 { width:100% !important}
+.metro .topsearch .input-control.select{ width:140px !important; margin-right:10px !important}
+.conMetroCon { width:100% !important }
+.metro .metroCon .input-control.text { width: 100% !important;}
+.tile-group.three.no-margin.no-padding {width: 100% !important;}
+
+.hazard-alert-container .form-inline .span2, .hazard-alert-container .form-inline .size2 { width:92% !important;  }
+.hazard-alert-container { width:75% !important; margin:0 auto; }
+
+/* added by Ritesh 20/07/2015*/
+.conections-data { float:none !important; }
+.conections-data .tile { float:none !important; margin:0 auto 10px auto !important; }
+/*.conections-data .tile.double { height: auto !important;  }*/
+.metro .span2, .metro .size2 { background:none !important; margin:0 0 15px 0 !important; }	
+.news_metro .tile-group.no-margin.no-padding.clearfix.span2 { width:260px !important; }
+.news_metro .tile.double-vertical { height:97px !important; }
+
+.mol-left-data .tile.double.marcio-menu-tile { width:100% !important; }
+
+.union-container .skilRight .tile.half-library { width:100% !important; }
+.union-container .carousel-content .carousel-content-inner h3 { font-size:18px !important; }
+.union-container .carousel-content .carousel-content-inner p { font-size: 11px !important; height: 15px; line-height: 16px; margin: 40px 0 0; overflow: hidden;  }
+#modal_update_supervisor .modal-body table tr td:first-child h5 { width:100%; font-size:13px; } 
+
+.my-client-right-tab-data .badge-counting { position:absolute; right: 15px; top: 9px; }
+.my-client-right-tab-data { width:100% !important; }
+.my-client-right-tab-data .nav-tabs { width:100%; }
+.inspection-view-content .tile.half-library  { width:93% !important; }
+
+
+}
+
+@media (max-width:480px){
+.metro .topsearch .input-control.text, .metro .topsearch .input-control.select {width:191px !important;}
+.navigation-bar .element-menu li, .navbar .element-menu li {margin: 2px 1px 10px;}
+.metro h3 { font-size:18px !important; }
+.s1LibCon .midBox.tile.triple-vertical { height:500px;}
+.homebg.metro .padding-metro-header .margin20 { padding:0 5px !important;  }
+.checkout-area button.link { width:100% !important; margin:0 0 7px 0; }
+.checkout-area button.danger { width:60% !important; margin:0 20%;  }
+.skillgaps-cpnstr-buttons span { font-size:12px !important; margin-left:17px !important;  }
+.skillgaps-cpnstr-buttons span:last-child { margin-bottom:20px; }
+.skilledjob-data-container .span4 { width:100% !important; max-width:250px; margin:0 auto !important;  float:none;}
+.constr-trade-container { padding:20px 20px !important }
+.constr-trade-container i { float:left;}
+.constr-trade-container .panel-header { padding:10px 30px 10px 10px !important; line-height:22px !important; }
+.constr-trade-container .panel-header .back-side-arrow { position:absolute; right:15px; top:7px; }
+.constr-trade-container .panel-header .info-container { padding:10px 20px 20px 20px !important; position:inherit !important; }
+
+.equip-model  {  position:absolute !important;  top:25% !important; left:3% !important;  width:94% !important;  }
+.dashboard-content .carousel { height:100% !important; }
+#modal_worker_id_card .progress-bar { width:100% !important; max-width:210px; }
+
+#modal_header_idcard .tab-control .tabs > li {  width:100% !important; }
+
+.reward-data-container .tile-group.three.no-margin.no-padding { margin: 0 auto 30px !important; width: 260px !important; }
+.reward-data-container .tile.triple { display: block; float: none; margin: 0 auto 20px !important; width: 280px !important; }
+.reward-data-container .reward-header { height:89px !important; }
+.reward-data-container .reward-registration  { height:185px !important; }
+
+}
+
+@media (max-width:479px) {
+/*.tile-group.three.no-margin.no-padding{ width:260px !important;}*/
+#bodyhrq footer .menu li{ width:100%}
+.metro.profile-home .tile.quadro.marcio_profile_home{ width:250px !important}
+.profile-home .tile-group.five.no-margin.no-padding.clearfix{ width:250px !important; margin:0 auto !important; float:none !important}
+.profile-home .tile-group.no-margin.no-padding.clearfix.span1{width:250px !important; margin:0 auto !important; float:none !important}
+.profile-home .tile-group.no-margin.no-padding.clearfix.span2{ /*width:250px !important;*/ margin:0 auto !important; float:none !important}
+.fatality_metro .tile-group.no-margin.no-padding.clearfix { /*width:250px !important;*/ margin:0 auto !important; float:none !important}
+.center-width{width:260px !important; margin:0 auto !important; float:none !important;clear:both !important}
+/*added 06/07/2015*/
+.metro .tile-group.three, .metro .tile-group.triple { width:300px}
+.popOuter svg { left: -99px; position: relative; transform: scale(0.85);}
+.metro .tab-control .tabs > li { width:100%; margin-bottom:5px;}
+.metro .tab-control .tabs > li a { float:none}
+.cls-bycredits button { width:100%; box-sizing:border-box; margin:0 0 10px !important;}
+.metro .center-width .tile-group:nth-child(3) { width:100% !important}
+/*added 15/07/2015*/
+.profilehomeCon > .tile-group.five.no-margin.no-padding.clearfix, .profilehomeCon > .tile-group.no-margin.no-padding.clearfix.span1, .metro.profile-home .profilehomeCon .tile.quadro.marcio_profile_home { width:100% !important}
+.fatalityCon {width: 260px;}
+.proceCon .tile.double { width: 98% !important;}
+.profilehomeCon, .profileCon { width:100%; max-width:260px;}
+.profilehomeCon .marcio_profile_home  {  width:250px !important; background-color: inherit !important; box-shadow:none !important; }
+.profilehomeCon .panel  {  width:250px !important;  }
+
+.metro .topsearch .input-control.text { width: 100% !important;}
+.metro .topsearch .input-control.select {margin-right: 0 !important;width: 100% !important;}
+.myDataColCon { width:250px; margin:0 auto}
+.myDataColCon .tile-content span { margin-left:20% !important; }
+
+.myDataColCon .modal svg {left: -138px;transform: scale(0.7);}
+.myDataColCon .modal > div > div { overflow: hidden; width: 212px !important;}
+.myDataColCon .modal > div > div > div {left:-7px !important;}
+
+.union-container .carousel-content .carousel-content-inner h3 { font-size:12px !important; top:0px; left:5px; }
+.union-container .carousel-content .carousel-content-inner span {   left:5px; bottom:3px; padding:0; margin:0; }
+.union-container .carousel-content .carousel-content-inner span a.btn-local183  {  font-size: 10px !important; padding: 2px 0 !important; }
+.union-container .carousel-content .carousel-content-inner p { font-size: 11px !important; height: 15px; line-height: 16px; margin: 15px 0 0; overflow: hidden;  }
+
+.metro .tile.quadro.marcio_profile_home { height:89px !important; }
+.constr-trade-container .tile.quadro.marcio_profile_home { height:auto !important; }
+
+}
